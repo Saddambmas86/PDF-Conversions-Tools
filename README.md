@@ -36,3 +36,8 @@ https://www.wordscompare.com/pdf-to-csv
 
 - CSV to PDF Convertor
 https://www.wordscompare.com/csv-to-pdf
+
+- PDF to PPT Convertor
+https://www.wordscompare.com/pdf-to-ppt
+
+
